@@ -1,0 +1,75 @@
+html{
+/*  font-family:sans-serif;*/
+font-family: 'Montserrat', sans-serif;
+}
+
+.logo {
+    width: 100%;
+    border-bottom: 4px solid tomato;
+    padding: 30px;
+  }
+
+
+.box{
+  padding: 0% 4% 10% 4%;
+}
+
+.box_Mike{
+  padding: 3%;
+}
+
+
+h2{
+  text-shadow: 1px 1px 6px black;
+  color: white;
+  font-weight: 200;
+  padding: 0% 5% 0% 0%;
+  font-size: 3vw;
+}
+
+p{
+  font-size:1.8vw;
+  text-indent: 7%;
+  line-height: 180%;
+  text-align: justify;
+
+}
+
+
+/* 1 box*/
+.title_left{
+
+  text-align: right;
+}
+
+.img_Mike_Amiri{
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin: 0% 5%;
+}
+
+/* 2 box*/
+.quote{
+  color: rgb(170,170,170);
+  text-align: center;
+  text-shadow: 1px 1px 4px rgb(130,130,130);
+  margin: 0% 10%;
+
+}
+
+/* 3 box*/
+.title_right{
+
+  text-align: left;
+}
+
+.img_clothes{
+  height: 60%;
+  width: 60%;
+  float: right;
+  margin: 1%;
+  padding-right: 3%;
+  padding-left: 5%;
+
+}
